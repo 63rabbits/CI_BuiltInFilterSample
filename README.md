@@ -1,5 +1,5 @@
 # CI_BuiltInFilterSample
 
-Extract the red color using CIColorClamp.
+Using CIColorClamp to pull out the red color
 
 ![](./CI_BuiltInFilterSample.png)
